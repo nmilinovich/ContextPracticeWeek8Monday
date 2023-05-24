@@ -13,9 +13,7 @@ class Dog {
 		return `${this.name} says ${word}`
 	}
 }
-// static getDragons(...Dragon) {
-//     return Dragon.map((Dragon) => Dragon.name)
-//   }
+
 
 /*****************************************************************************/
 /***************** DO NOT MODIFY ANYTHING UNDER THIS LINE ********************/
