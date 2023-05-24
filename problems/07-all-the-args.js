@@ -1,5 +1,6 @@
 function allTheArgs(func, ...args) {
-  // Your code here
+  //console.log("args", args);
+  return func.bind(null, ...args);
 }
 
 /*****************************************************************************/
